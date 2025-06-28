@@ -8,11 +8,13 @@
 
 🌱 **My current Tech Stack is -**
     🌐 Web Development 
-    ⚛️ ReactJS & Tailwind CSS & NEXT JS
+    ⚛️ ReactJS, Tailwind CSS & NEXT JS
+    📱 App Developement
     🖥️ Backend Development (NodeJS & Express)
     🦄 Responsive Website Building
-    ☁️ Web Deployment(AWS, Vercel & Netlify)
+    ☁️ Web Deployment (AWS, Vercel & Netlify)
     📅 DBMS (MongoDB & MySQL)
+    🔼 Expo CLI
     🚀 Git & GitHub
     🎮 Unity Game Development
     🕹️ KaplayJS
