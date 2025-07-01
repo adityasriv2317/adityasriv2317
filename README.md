@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Aditya Srivastava
+## Hi there 👋, I'm Aditya Srivastava 🙇‍♂️
 😄 I am a :<br>💻 Software Developer 🎮 Game Developer and a casual gamer <br>🕸️ AI Geek ⚙️ Technology Enthusiast<br><br>🌱 My magic spells are about : <br>🌐 Web Development ⚛️ ReactJS, Tailwind CSS & NEXT JS <br>📱 App Developement 🖥️ Backend Development (NodeJS & Express) <br>🦄 Responsive Website Building 📅 DBMS (MongoDB & MySQL) <br>🔼 Expo CLI ☁️ Web Deployment (AWS, Vercel & Netlify)<br>🚀 Git & GitHub 🎮 Unity Game Development <br>🕹️ KaplayJS ⚡ API Integration
 
 
