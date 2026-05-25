@@ -1,6 +1,5 @@
-## Hi there 👋, I'm Aditya Srivastava 🙇‍♂️
-😄 I am a :<br>💻 Tech Geek & Software Developer <br> 🎮 Casual Gamer & Developer <br><br>🌱 My magic spells are about : <br>🌐 Web Development: ⚛️ ReactJS, NEXT JS, Tailwind CSS & Framer-Motion <br>📱 App Developement: React Native CLI & Expo 🖥️ Backend Development: NodeJS, Express & NEXT JS <br>🦄 Responsive Website Building 📅 DBMS: MongoDB & MySQL <br>☁️ Web Deployment (AWS, Vercel & Netlify)<br>🚀 Git & GitHub 🎮 Unity Game Development <br>🕹️ KaplayJS
-
+## Hi there 👋, I'm Aditya Srivastava, 🙇‍♂️
+😄 I am a :<br>💻 Tech Geek & Software Developer <br> 🎮 Casual Gamer & Developer <br><br>🌱 My magic spells are about : <br>🎮 Game Development - Unity & Unreal Engine <br>🌐 Web Development: ⚛️ ReactJS, NEXT JS, Tailwind CSS & Framer-Motion <br>📱 App Developement: React Native CLI & Expo <br>☁️ Cloud - AWS, Vercel & Netlify<br>
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?logo=briefcase&logoColor=white)](https://shikhar.is-a.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya2317) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaxia9237@gmail.com) 
